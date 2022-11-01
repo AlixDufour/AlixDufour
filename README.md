@@ -10,7 +10,7 @@ I'm Alix, a french student in Polytech Lille, a french engineering school in Emb
 ## Experience
 
 ### Posts and Telecommunication Institute of Technologies (PTIT) • Saigon, Vietnam • may-july 2022
-Research internship to create a cheap automatic control system for NO2 pollution in water *(arduino uno - python - electronic circuit design design)*
+Research internship to create a cheap automatic control system for NO2 pollution in water *(arduino - python - electronic circuit design design)*
 
 ## Education 
 
